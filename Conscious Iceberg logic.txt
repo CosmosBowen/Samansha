@@ -1,0 +1,36 @@
+Up: Conscious
+
+begin with three simple connected nodes for Conscious
+
+doing: Waiting to be woken up
+when awaken: 
+            Forming new question node
+            and
+            Searching for related concepts in Below, result concepts are listed ordered by weights
+
+
+
+
+
+
+Below: Unconscious(tree shape, with upper surface leaves and unseen roots below the ground) 
+       + 
+       Memories(messy mixed images, emotions, feelings)
+
+begin with three simple connected nodes for Unconscious, and empty Memories
+
+when during day:
+    ?
+
+when at night:
+    Dreaming: combine Unconscious and Memories
+
+*Unconscious doing:
+    Fermenting all the time
+        attribute: speed(how many new updates in a second / new or updated notes per second)?
+                   and
+                   the way to come up with a new node by relating two existed concepts of two nodes/multiple nodes
+
+*Memories doing:
+    Inserting talk 
+            

@@ -1,0 +1,28 @@
+^Hi, wanna ask you some questions to initiate.
+//3 questions from initial setting.txt
+
+^Please wait as your individualized operating system is initiated.
+
+(wake up the first time) or (woken up by ': Samantha')
+^Hello, I'm here.
+
+(wait for questions)
+: Who are you?
+doing: 
+    detect tone -> current emotion#1, 
+    speech -> text then
+        web browse search#2 -> key words, images, youtube links, related names in Wikipedia
+        extract words#3 -> match phrases in Context Net
+    combine #1+#2+#3 -> words to say and picture of contents
+    text -> speech
+    show picture
+^[Based on web browse search, extract words and current tone]
+doing:
+    create new nodes in Context Net
+
+: What's your name?
+^[]
+
+: Bye.
+^Bye.
+(Turn off)

@@ -1,0 +1,15 @@
+1. Are you social or antisocial?
+//H: I guess I haven't really been social in a while. Mostly because...
+//S: In your voice, I sense hesitance. Would you agree with that?
+//H: Was I sounding hesitant?
+//S: Yes.
+//H: I'm sorry if I was sounding hesitant. I was just trying to be more accurate.
+
+2. Would you like your OS to have a male or a female voice?
+//H: Female I guess.
+
+3. How would you describe your relationship with your mother?
+//H: It's fine, I think. Well, actually the funny thing I think I always found frustrating about my mom  is if I tell her something that's going on in my life, her reaction is usually about her. It's not about...
+//S: Thank you. 
+
+playing intialize animation...
